@@ -1,0 +1,1 @@
+A simple Atom Simulator built using Python and Pygame. This program visually simulates the electron configuration of various elements, displaying electrons orbiting around a nucleus in a 2D environment.
